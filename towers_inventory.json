@@ -1,0 +1,722 @@
+[
+  {
+    "tower_id": "TWR-001",
+    "region": "DXB-North",
+    "max_allowed_weight_kg": 650,
+    "current_weight_kg": 344.5
+  },
+  {
+    "tower_id": "TWR-002",
+    "region": "DXB-South",
+    "max_allowed_weight_kg": 450,
+    "current_weight_kg": 297.0
+  },
+  {
+    "tower_id": "TWR-003",
+    "region": "SHJ-Coastal",
+    "max_allowed_weight_kg": 800,
+    "current_weight_kg": 632.0
+  },
+  {
+    "tower_id": "TWR-004",
+    "region": "SHJ-South",
+    "max_allowed_weight_kg": 600,
+    "current_weight_kg": 276.0
+  },
+  {
+    "tower_id": "TWR-005",
+    "region": "AUH-Central",
+    "max_allowed_weight_kg": 400,
+    "current_weight_kg": 236.0
+  },
+  {
+    "tower_id": "TWR-006",
+    "region": "AUH-East",
+    "max_allowed_weight_kg": 750,
+    "current_weight_kg": 540.0
+  },
+  {
+    "tower_id": "TWR-007",
+    "region": "RAK-North",
+    "max_allowed_weight_kg": 550,
+    "current_weight_kg": 467.5
+  },
+  {
+    "tower_id": "TWR-008",
+    "region": "AJM-Central",
+    "max_allowed_weight_kg": 350,
+    "current_weight_kg": 182.0
+  },
+  {
+    "tower_id": "TWR-009",
+    "region": "FUJ-Coastal",
+    "max_allowed_weight_kg": 700,
+    "current_weight_kg": 455.0
+  },
+  {
+    "tower_id": "TWR-010",
+    "region": "DXB-Central",
+    "max_allowed_weight_kg": 500,
+    "current_weight_kg": 390.0
+  },
+  {
+    "tower_id": "TWR-011",
+    "region": "DXB-North",
+    "max_allowed_weight_kg": 300,
+    "current_weight_kg": 135.0
+  },
+  {
+    "tower_id": "TWR-012",
+    "region": "DXB-South",
+    "max_allowed_weight_kg": 650,
+    "current_weight_kg": 377.0
+  },
+  {
+    "tower_id": "TWR-013",
+    "region": "SHJ-Coastal",
+    "max_allowed_weight_kg": 450,
+    "current_weight_kg": 319.5
+  },
+  {
+    "tower_id": "TWR-014",
+    "region": "SHJ-South",
+    "max_allowed_weight_kg": 800,
+    "current_weight_kg": 672.0
+  },
+  {
+    "tower_id": "TWR-015",
+    "region": "AUH-Central",
+    "max_allowed_weight_kg": 600,
+    "current_weight_kg": 306.0
+  },
+  {
+    "tower_id": "TWR-016",
+    "region": "AUH-East",
+    "max_allowed_weight_kg": 400,
+    "current_weight_kg": 256.0
+  },
+  {
+    "tower_id": "TWR-017",
+    "region": "RAK-North",
+    "max_allowed_weight_kg": 750,
+    "current_weight_kg": 577.5
+  },
+  {
+    "tower_id": "TWR-018",
+    "region": "AJM-Central",
+    "max_allowed_weight_kg": 550,
+    "current_weight_kg": 242.0
+  },
+  {
+    "tower_id": "TWR-019",
+    "region": "FUJ-Coastal",
+    "max_allowed_weight_kg": 350,
+    "current_weight_kg": 199.5
+  },
+  {
+    "tower_id": "TWR-020",
+    "region": "DXB-Central",
+    "max_allowed_weight_kg": 700,
+    "current_weight_kg": 490.0
+  },
+  {
+    "tower_id": "TWR-021",
+    "region": "DXB-North",
+    "max_allowed_weight_kg": 500,
+    "current_weight_kg": 415.0
+  },
+  {
+    "tower_id": "TWR-022",
+    "region": "DXB-South",
+    "max_allowed_weight_kg": 300,
+    "current_weight_kg": 150.0
+  },
+  {
+    "tower_id": "TWR-023",
+    "region": "SHJ-Coastal",
+    "max_allowed_weight_kg": 650,
+    "current_weight_kg": 409.5
+  },
+  {
+    "tower_id": "TWR-024",
+    "region": "SHJ-South",
+    "max_allowed_weight_kg": 450,
+    "current_weight_kg": 342.0
+  },
+  {
+    "tower_id": "TWR-025",
+    "region": "AUH-Central",
+    "max_allowed_weight_kg": 800,
+    "current_weight_kg": 344.0
+  },
+  {
+    "tower_id": "TWR-026",
+    "region": "AUH-East",
+    "max_allowed_weight_kg": 600,
+    "current_weight_kg": 336.0
+  },
+  {
+    "tower_id": "TWR-027",
+    "region": "RAK-North",
+    "max_allowed_weight_kg": 400,
+    "current_weight_kg": 276.0
+  },
+  {
+    "tower_id": "TWR-028",
+    "region": "AJM-Central",
+    "max_allowed_weight_kg": 750,
+    "current_weight_kg": 615.0
+  },
+  {
+    "tower_id": "TWR-029",
+    "region": "FUJ-Coastal",
+    "max_allowed_weight_kg": 550,
+    "current_weight_kg": 269.5
+  },
+  {
+    "tower_id": "TWR-030",
+    "region": "DXB-Central",
+    "max_allowed_weight_kg": 350,
+    "current_weight_kg": 217.0
+  },
+  {
+    "tower_id": "TWR-031",
+    "region": "DXB-North",
+    "max_allowed_weight_kg": 700,
+    "current_weight_kg": 525.0
+  },
+  {
+    "tower_id": "TWR-032",
+    "region": "DXB-South",
+    "max_allowed_weight_kg": 500,
+    "current_weight_kg": 210.0
+  },
+  {
+    "tower_id": "TWR-033",
+    "region": "SHJ-Coastal",
+    "max_allowed_weight_kg": 300,
+    "current_weight_kg": 165.0
+  },
+  {
+    "tower_id": "TWR-034",
+    "region": "SHJ-South",
+    "max_allowed_weight_kg": 650,
+    "current_weight_kg": 442.0
+  },
+  {
+    "tower_id": "TWR-035",
+    "region": "AUH-Central",
+    "max_allowed_weight_kg": 450,
+    "current_weight_kg": 364.5
+  },
+  {
+    "tower_id": "TWR-036",
+    "region": "AUH-East",
+    "max_allowed_weight_kg": 800,
+    "current_weight_kg": 384.0
+  },
+  {
+    "tower_id": "TWR-037",
+    "region": "RAK-North",
+    "max_allowed_weight_kg": 600,
+    "current_weight_kg": 366.0
+  },
+  {
+    "tower_id": "TWR-038",
+    "region": "AJM-Central",
+    "max_allowed_weight_kg": 400,
+    "current_weight_kg": 296.0
+  },
+  {
+    "tower_id": "TWR-039",
+    "region": "FUJ-Coastal",
+    "max_allowed_weight_kg": 750,
+    "current_weight_kg": 307.5
+  },
+  {
+    "tower_id": "TWR-040",
+    "region": "DXB-Central",
+    "max_allowed_weight_kg": 550,
+    "current_weight_kg": 297.0
+  },
+  {
+    "tower_id": "TWR-041",
+    "region": "DXB-North",
+    "max_allowed_weight_kg": 350,
+    "current_weight_kg": 234.5
+  },
+  {
+    "tower_id": "TWR-042",
+    "region": "DXB-South",
+    "max_allowed_weight_kg": 700,
+    "current_weight_kg": 560.0
+  },
+  {
+    "tower_id": "TWR-043",
+    "region": "SHJ-Coastal",
+    "max_allowed_weight_kg": 500,
+    "current_weight_kg": 235.0
+  },
+  {
+    "tower_id": "TWR-044",
+    "region": "SHJ-South",
+    "max_allowed_weight_kg": 300,
+    "current_weight_kg": 180.0
+  },
+  {
+    "tower_id": "TWR-045",
+    "region": "AUH-Central",
+    "max_allowed_weight_kg": 650,
+    "current_weight_kg": 474.5
+  },
+  {
+    "tower_id": "TWR-046",
+    "region": "AUH-East",
+    "max_allowed_weight_kg": 450,
+    "current_weight_kg": 180.0
+  },
+  {
+    "tower_id": "TWR-047",
+    "region": "RAK-North",
+    "max_allowed_weight_kg": 800,
+    "current_weight_kg": 424.0
+  },
+  {
+    "tower_id": "TWR-048",
+    "region": "AJM-Central",
+    "max_allowed_weight_kg": 600,
+    "current_weight_kg": 396.0
+  },
+  {
+    "tower_id": "TWR-049",
+    "region": "FUJ-Coastal",
+    "max_allowed_weight_kg": 400,
+    "current_weight_kg": 316.0
+  },
+  {
+    "tower_id": "TWR-050",
+    "region": "DXB-Central",
+    "max_allowed_weight_kg": 750,
+    "current_weight_kg": 345.0
+  },
+  {
+    "tower_id": "TWR-051",
+    "region": "DXB-North",
+    "max_allowed_weight_kg": 550,
+    "current_weight_kg": 324.5
+  },
+  {
+    "tower_id": "TWR-052",
+    "region": "DXB-South",
+    "max_allowed_weight_kg": 350,
+    "current_weight_kg": 252.0
+  },
+  {
+    "tower_id": "TWR-053",
+    "region": "SHJ-Coastal",
+    "max_allowed_weight_kg": 700,
+    "current_weight_kg": 595.0
+  },
+  {
+    "tower_id": "TWR-054",
+    "region": "SHJ-South",
+    "max_allowed_weight_kg": 500,
+    "current_weight_kg": 260.0
+  },
+  {
+    "tower_id": "TWR-055",
+    "region": "AUH-Central",
+    "max_allowed_weight_kg": 300,
+    "current_weight_kg": 195.0
+  },
+  {
+    "tower_id": "TWR-056",
+    "region": "AUH-East",
+    "max_allowed_weight_kg": 650,
+    "current_weight_kg": 507.0
+  },
+  {
+    "tower_id": "TWR-057",
+    "region": "RAK-North",
+    "max_allowed_weight_kg": 450,
+    "current_weight_kg": 202.5
+  },
+  {
+    "tower_id": "TWR-058",
+    "region": "AJM-Central",
+    "max_allowed_weight_kg": 800,
+    "current_weight_kg": 464.0
+  },
+  {
+    "tower_id": "TWR-059",
+    "region": "FUJ-Coastal",
+    "max_allowed_weight_kg": 600,
+    "current_weight_kg": 426.0
+  },
+  {
+    "tower_id": "TWR-060",
+    "region": "DXB-Central",
+    "max_allowed_weight_kg": 400,
+    "current_weight_kg": 336.0
+  },
+  {
+    "tower_id": "TWR-061",
+    "region": "DXB-North",
+    "max_allowed_weight_kg": 750,
+    "current_weight_kg": 382.5
+  },
+  {
+    "tower_id": "TWR-062",
+    "region": "DXB-South",
+    "max_allowed_weight_kg": 550,
+    "current_weight_kg": 352.0
+  },
+  {
+    "tower_id": "TWR-063",
+    "region": "SHJ-Coastal",
+    "max_allowed_weight_kg": 350,
+    "current_weight_kg": 269.5
+  },
+  {
+    "tower_id": "TWR-064",
+    "region": "SHJ-South",
+    "max_allowed_weight_kg": 700,
+    "current_weight_kg": 308.0
+  },
+  {
+    "tower_id": "TWR-065",
+    "region": "AUH-Central",
+    "max_allowed_weight_kg": 500,
+    "current_weight_kg": 285.0
+  },
+  {
+    "tower_id": "TWR-066",
+    "region": "AUH-East",
+    "max_allowed_weight_kg": 300,
+    "current_weight_kg": 210.0
+  },
+  {
+    "tower_id": "TWR-067",
+    "region": "RAK-North",
+    "max_allowed_weight_kg": 650,
+    "current_weight_kg": 539.5
+  },
+  {
+    "tower_id": "TWR-068",
+    "region": "AJM-Central",
+    "max_allowed_weight_kg": 450,
+    "current_weight_kg": 225.0
+  },
+  {
+    "tower_id": "TWR-069",
+    "region": "FUJ-Coastal",
+    "max_allowed_weight_kg": 800,
+    "current_weight_kg": 504.0
+  },
+  {
+    "tower_id": "TWR-070",
+    "region": "DXB-Central",
+    "max_allowed_weight_kg": 600,
+    "current_weight_kg": 456.0
+  },
+  {
+    "tower_id": "TWR-071",
+    "region": "DXB-North",
+    "max_allowed_weight_kg": 400,
+    "current_weight_kg": 172.0
+  },
+  {
+    "tower_id": "TWR-072",
+    "region": "DXB-South",
+    "max_allowed_weight_kg": 750,
+    "current_weight_kg": 420.0
+  },
+  {
+    "tower_id": "TWR-073",
+    "region": "SHJ-Coastal",
+    "max_allowed_weight_kg": 550,
+    "current_weight_kg": 379.5
+  },
+  {
+    "tower_id": "TWR-074",
+    "region": "SHJ-South",
+    "max_allowed_weight_kg": 350,
+    "current_weight_kg": 287.0
+  },
+  {
+    "tower_id": "TWR-075",
+    "region": "AUH-Central",
+    "max_allowed_weight_kg": 700,
+    "current_weight_kg": 343.0
+  },
+  {
+    "tower_id": "TWR-076",
+    "region": "AUH-East",
+    "max_allowed_weight_kg": 500,
+    "current_weight_kg": 310.0
+  },
+  {
+    "tower_id": "TWR-077",
+    "region": "RAK-North",
+    "max_allowed_weight_kg": 300,
+    "current_weight_kg": 225.0
+  },
+  {
+    "tower_id": "TWR-078",
+    "region": "AJM-Central",
+    "max_allowed_weight_kg": 650,
+    "current_weight_kg": 273.0
+  },
+  {
+    "tower_id": "TWR-079",
+    "region": "FUJ-Coastal",
+    "max_allowed_weight_kg": 450,
+    "current_weight_kg": 247.5
+  },
+  {
+    "tower_id": "TWR-080",
+    "region": "DXB-Central",
+    "max_allowed_weight_kg": 800,
+    "current_weight_kg": 544.0
+  },
+  {
+    "tower_id": "TWR-081",
+    "region": "DXB-North",
+    "max_allowed_weight_kg": 600,
+    "current_weight_kg": 486.0
+  },
+  {
+    "tower_id": "TWR-082",
+    "region": "DXB-South",
+    "max_allowed_weight_kg": 400,
+    "current_weight_kg": 192.0
+  },
+  {
+    "tower_id": "TWR-083",
+    "region": "SHJ-Coastal",
+    "max_allowed_weight_kg": 750,
+    "current_weight_kg": 457.5
+  },
+  {
+    "tower_id": "TWR-084",
+    "region": "SHJ-South",
+    "max_allowed_weight_kg": 550,
+    "current_weight_kg": 407.0
+  },
+  {
+    "tower_id": "TWR-085",
+    "region": "AUH-Central",
+    "max_allowed_weight_kg": 350,
+    "current_weight_kg": 143.5
+  },
+  {
+    "tower_id": "TWR-086",
+    "region": "AUH-East",
+    "max_allowed_weight_kg": 700,
+    "current_weight_kg": 378.0
+  },
+  {
+    "tower_id": "TWR-087",
+    "region": "RAK-North",
+    "max_allowed_weight_kg": 500,
+    "current_weight_kg": 335.0
+  },
+  {
+    "tower_id": "TWR-088",
+    "region": "AJM-Central",
+    "max_allowed_weight_kg": 300,
+    "current_weight_kg": 240.0
+  },
+  {
+    "tower_id": "TWR-089",
+    "region": "FUJ-Coastal",
+    "max_allowed_weight_kg": 650,
+    "current_weight_kg": 305.5
+  },
+  {
+    "tower_id": "TWR-090",
+    "region": "DXB-Central",
+    "max_allowed_weight_kg": 450,
+    "current_weight_kg": 270.0
+  },
+  {
+    "tower_id": "TWR-091",
+    "region": "DXB-North",
+    "max_allowed_weight_kg": 800,
+    "current_weight_kg": 584.0
+  },
+  {
+    "tower_id": "TWR-092",
+    "region": "DXB-South",
+    "max_allowed_weight_kg": 600,
+    "current_weight_kg": 240.0
+  },
+  {
+    "tower_id": "TWR-093",
+    "region": "SHJ-Coastal",
+    "max_allowed_weight_kg": 400,
+    "current_weight_kg": 212.0
+  },
+  {
+    "tower_id": "TWR-094",
+    "region": "SHJ-South",
+    "max_allowed_weight_kg": 750,
+    "current_weight_kg": 495.0
+  },
+  {
+    "tower_id": "TWR-095",
+    "region": "AUH-Central",
+    "max_allowed_weight_kg": 550,
+    "current_weight_kg": 434.5
+  },
+  {
+    "tower_id": "TWR-096",
+    "region": "AUH-East",
+    "max_allowed_weight_kg": 350,
+    "current_weight_kg": 161.0
+  },
+  {
+    "tower_id": "TWR-097",
+    "region": "RAK-North",
+    "max_allowed_weight_kg": 700,
+    "current_weight_kg": 413.0
+  },
+  {
+    "tower_id": "TWR-098",
+    "region": "AJM-Central",
+    "max_allowed_weight_kg": 500,
+    "current_weight_kg": 360.0
+  },
+  {
+    "tower_id": "TWR-099",
+    "region": "FUJ-Coastal",
+    "max_allowed_weight_kg": 300,
+    "current_weight_kg": 255.0
+  },
+  {
+    "tower_id": "TWR-100",
+    "region": "DXB-Central",
+    "max_allowed_weight_kg": 650,
+    "current_weight_kg": 338.0
+  },
+  {
+    "tower_id": "TWR-101",
+    "region": "DXB-North",
+    "max_allowed_weight_kg": 500,
+    "current_weight_kg": 420
+  },
+  {
+    "tower_id": "TWR-102",
+    "region": "DXB-South",
+    "max_allowed_weight_kg": 800,
+    "current_weight_kg": 624.0
+  },
+  {
+    "tower_id": "TWR-103",
+    "region": "SHJ-Coastal",
+    "max_allowed_weight_kg": 600,
+    "current_weight_kg": 270.0
+  },
+  {
+    "tower_id": "TWR-104",
+    "region": "SHJ-South",
+    "max_allowed_weight_kg": 400,
+    "current_weight_kg": 232.0
+  },
+  {
+    "tower_id": "TWR-105",
+    "region": "AUH-Central",
+    "max_allowed_weight_kg": 750,
+    "current_weight_kg": 532.5
+  },
+  {
+    "tower_id": "TWR-106",
+    "region": "AUH-East",
+    "max_allowed_weight_kg": 550,
+    "current_weight_kg": 462.0
+  },
+  {
+    "tower_id": "TWR-107",
+    "region": "RAK-North",
+    "max_allowed_weight_kg": 350,
+    "current_weight_kg": 178.5
+  },
+  {
+    "tower_id": "TWR-108",
+    "region": "AJM-Central",
+    "max_allowed_weight_kg": 700,
+    "current_weight_kg": 448.0
+  },
+  {
+    "tower_id": "TWR-109",
+    "region": "FUJ-Coastal",
+    "max_allowed_weight_kg": 500,
+    "current_weight_kg": 385.0
+  },
+  {
+    "tower_id": "TWR-110",
+    "region": "DXB-Central",
+    "max_allowed_weight_kg": 300,
+    "current_weight_kg": 132.0
+  },
+  {
+    "tower_id": "TWR-111",
+    "region": "DXB-North",
+    "max_allowed_weight_kg": 650,
+    "current_weight_kg": 370.5
+  },
+  {
+    "tower_id": "TWR-112",
+    "region": "DXB-South",
+    "max_allowed_weight_kg": 450,
+    "current_weight_kg": 315.0
+  },
+  {
+    "tower_id": "TWR-113",
+    "region": "SHJ-Coastal",
+    "max_allowed_weight_kg": 800,
+    "current_weight_kg": 664.0
+  },
+  {
+    "tower_id": "TWR-114",
+    "region": "SHJ-South",
+    "max_allowed_weight_kg": 600,
+    "current_weight_kg": 300.0
+  },
+  {
+    "tower_id": "TWR-115",
+    "region": "AUH-Central",
+    "max_allowed_weight_kg": 400,
+    "current_weight_kg": 252.0
+  },
+  {
+    "tower_id": "TWR-116",
+    "region": "AUH-East",
+    "max_allowed_weight_kg": 750,
+    "current_weight_kg": 570.0
+  },
+  {
+    "tower_id": "TWR-117",
+    "region": "RAK-North",
+    "max_allowed_weight_kg": 550,
+    "current_weight_kg": 236.5
+  },
+  {
+    "tower_id": "TWR-118",
+    "region": "AJM-Central",
+    "max_allowed_weight_kg": 350,
+    "current_weight_kg": 196.0
+  },
+  {
+    "tower_id": "TWR-119",
+    "region": "FUJ-Coastal",
+    "max_allowed_weight_kg": 700,
+    "current_weight_kg": 483.0
+  },
+  {
+    "tower_id": "TWR-120",
+    "region": "DXB-Central",
+    "max_allowed_weight_kg": 500,
+    "current_weight_kg": 410.0
+  }
+]

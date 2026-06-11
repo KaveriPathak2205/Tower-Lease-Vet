@@ -1,0 +1,49 @@
+REGION: DXB-North
+Max Equipment Height: 50 m
+Single-Tenant Weight Cap: 30 kg per asset
+Notes: Standard urban rooftop zone. Wind-load certification required above 45 m.
+
+REGION: DXB-South
+Max Equipment Height: 48 m
+Single-Tenant Weight Cap: 25 kg per asset
+Notes: High-density commercial district. Shared infrastructure preferred.
+
+REGION: DXB-Central
+Max Equipment Height: 45 m
+Single-Tenant Weight Cap: 28 kg per asset
+Notes: Downtown core zone with strict aesthetic guidelines.
+
+REGION: SHJ-Coastal
+Max Equipment Height: 45 m
+Single-Tenant Weight Cap: 25 kg per asset
+Notes: Coastal corrosion-resistant mounting required. Salt-spray rated enclosures mandatory.
+
+REGION: SHJ-South
+Max Equipment Height: 40 m
+Single-Tenant Weight Cap: 15 kg per asset
+Notes: Residential buffer zone. Noise and visual impact assessments required.
+
+REGION: AUH-Central
+Max Equipment Height: 55 m
+Single-Tenant Weight Cap: 35 kg per asset
+Notes: Capital district zone with elevated height allowances for macro sites.
+
+REGION: AUH-East
+Max Equipment Height: 50 m
+Single-Tenant Weight Cap: 30 kg per asset
+Notes: Industrial corridor. Heavy equipment co-location permitted with approval.
+
+REGION: RAK-North
+Max Equipment Height: 42 m
+Single-Tenant Weight Cap: 20 kg per asset
+Notes: Mountain-adjacent zone. Structural reinforcement may be required.
+
+REGION: AJM-Central
+Max Equipment Height: 38 m
+Single-Tenant Weight Cap: 18 kg per asset
+Notes: Mixed-use urban zone. Night-time work restrictions apply.
+
+REGION: FUJ-Coastal
+Max Equipment Height: 40 m
+Single-Tenant Weight Cap: 22 kg per asset
+Notes: Eastern coastal zone. Hurricane-rated mounting brackets required.
